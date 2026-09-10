@@ -1,97 +1,81 @@
 {
   "what_is_istoria": {
-    "answer": "iStoria هو تطبيق لتطوير مهارات اللغة الإنجليزية من خلال القصص والتدريب التفاعلي، ويساعد المتعلم على تطوير القراءة والاستماع والمفردات ومهارات اللغة.\n\nالمعلومات الرسمية:\nhttps://help.istoria.app/en/articles/6457477-what-is-istoria",
-    "source": "https://help.istoria.app/en/articles/6457477-what-is-istoria",
-    "verified": "2026-09-10"
+    "answer": "iStoria هو تطبيق لتطوير مهارات اللغة الإنجليزية من خلال القصص والتدريب التفاعلي، ويساعد المتعلم على تطوير القراءة والاستماع والمفردات ومهارات اللغة.",
+    "source": "https://help.istoria.app/en/articles/6457477-what-is-istoria"
   },
 
   "pricing_redirect": {
-    "answer": "أسعار iStoria وخطط الاشتراك قد تختلف حسب طريقة الاشتراك والعروض المتاحة. للحصول على السعر الحالي والرسمي، راجع صفحة الاشتراك في iStoria أو مركز المساعدة الرسمي:\nhttps://help.istoria.app/en/articles/6445591-how-to-subscribe-to-the-istoria-app",
-    "source": "https://help.istoria.app/en/articles/6445591-how-to-subscribe-to-the-istoria-app",
-    "verified": "2026-09-10"
+    "answer": "أسعار iStoria وخطط الاشتراك قد تختلف حسب طريقة الاشتراك والعروض المتاحة. للحصول على السعر الحالي والرسمي، راجع تفاصيل الاشتراك في iStoria.",
+    "source": "https://help.istoria.app/en/articles/6445591-how-to-subscribe-to-the-istoria-app"
   },
 
   "subscribe": {
-    "answer": "يمكن الاشتراك في iStoria Premium من خلال التطبيق أو عبر طرق الدفع المتاحة. يدعم iStoria الدفع المباشر، كما يمكن الاشتراك عبر App Store أو Google Play حسب جهازك وطريقة الدفع المتاحة.\n\nلشرح الاشتراك بالتفصيل:\nhttps://help.istoria.app/en/articles/6445591-how-to-subscribe-to-the-istoria-app",
-    "source": "https://help.istoria.app/en/articles/6445591-how-to-subscribe-to-the-istoria-app",
-    "verified": "2026-09-10"
+    "answer": "يمكن الاشتراك في iStoria Premium من خلال التطبيق أو عبر طرق الدفع المتاحة، ومنها App Store أو Google Play حسب جهازك وطريقة الدفع.",
+    "source": "https://help.istoria.app/en/articles/6445591-how-to-subscribe-to-the-istoria-app"
   },
 
   "family_subscription": {
-    "answer": "تتيح ميزة الاشتراك العائلي لمدير الاشتراك إضافة ما يصل إلى 5 أعضاء إضافيين، بالإضافة إلى مدير الاشتراك، مع حساب وتقدم منفصل لكل عضو.\n\nللاطلاع على طريقة الاشتراك وإضافة أفراد العائلة:\nhttps://help.istoria.app/en/articles/10288655-family-subscription-setup-management-guide",
-    "source": "https://help.istoria.app/en/articles/10288655-family-subscription-setup-management-guide",
-    "verified": "2026-09-10"
+    "answer": "تتيح ميزة الاشتراك العائلي لمدير الاشتراك إضافة ما يصل إلى 5 أعضاء إضافيين، بالإضافة إلى مدير الاشتراك، مع حساب وتقدم منفصل لكل عضو.",
+    "source": "https://help.istoria.app/en/articles/10288655-family-subscription-setup-management-guide"
   },
 
   "free_version": {
-    "answer": "نعم، توجد نسخة مجانية من iStoria ويمكن استخدامها بدون اشتراك. تتيح النسخة المجانية ممارسة المفردات وقراءة عدد محدود من فصول القصص يوميًا، بينما يوفر Premium قراءة غير محدودة وتجربة خالية من الإعلانات ومزايا إضافية.\n\nالمعلومات الرسمية:\nhttps://help.istoria.app/en/articles/7971434-is-istoria-free-to-use",
-    "source": "https://help.istoria.app/en/articles/7971434-is-istoria-free-to-use",
-    "verified": "2026-09-10"
+    "answer": "نعم، توجد نسخة مجانية من iStoria ويمكن استخدامها بدون اشتراك. تتيح النسخة المجانية ممارسة المفردات وقراءة عدد محدود من فصول القصص يوميًا، بينما يوفر Premium قراءة غير محدودة وتجربة خالية من الإعلانات ومزايا إضافية.",
+    "source": "https://help.istoria.app/en/articles/7971434-is-istoria-free-to-use"
   },
 
   "free_trial": {
-    "answer": "يوفر iStoria تجربة مجانية لمدة 7 أيام للوصول إلى مزايا Premium. لبدء التجربة، افتح صفحة الاشتراكات داخل التطبيق واختر الخطة المناسبة ثم اضغط على بدء التجربة المجانية لمدة 7 أيام.\n\nمهم: إذا لم تُلغِ التجربة قبل انتهائها، يمكن أن تتحول إلى اشتراك مدفوع وفق طريقة الدفع المرتبطة بالحساب.\n\nالتفاصيل الرسمية:\nhttps://help.istoria.app/en/articles/6445643-how-to-start-your-free-trial-on-istoria",
-    "source": "https://help.istoria.app/en/articles/6445643-how-to-start-your-free-trial-on-istoria",
-    "verified": "2026-09-10"
+    "answer": "يوفر iStoria تجربة مجانية لمدة 7 أيام للوصول إلى مزايا Premium. لبدء التجربة، افتح صفحة الاشتراكات داخل التطبيق واختر الخطة المناسبة ثم ابدأ التجربة المجانية.",
+    "source": "https://help.istoria.app/en/articles/6445643-how-to-start-your-free-trial-on-istoria"
   },
 
   "cancel_subscription": {
-    "answer": "يمكنك إلغاء الاشتراك من داخل تطبيق iStoria عبر:\nالملف الشخصي ← الإعدادات ← إدارة الاشتراكات.\n\nبعد ذلك يوجهك التطبيق إلى منصة الدفع التي استخدمتها لإكمال عملية الإلغاء.\n\nيفضل إلغاء الاشتراك قبل موعد التجديد بوقت كافٍ لتجنب التجديد التالي. حذف التطبيق وحده لا يلغي الاشتراك.\n\nالتفاصيل الرسمية:\nhttps://help.istoria.app/en/articles/6457248-how-to-cancel-your-subscription-stop-auto-renewal-and-manage-billing",
-    "source": "https://help.istoria.app/en/articles/6457248-how-to-cancel-your-subscription-stop-auto-renewal-and-manage-billing",
-    "verified": "2026-09-10"
+    "answer": "يمكنك إلغاء الاشتراك من داخل تطبيق iStoria عبر الملف الشخصي ← الإعدادات ← إدارة الاشتراكات. بعد ذلك يوجهك التطبيق إلى منصة الدفع التي استخدمتها لإكمال عملية الإلغاء.\n\nحذف التطبيق وحده لا يلغي الاشتراك.",
+    "source": "https://help.istoria.app/en/articles/6457248-how-to-cancel-your-subscription-stop-auto-renewal-and-manage-billing"
   },
 
   "refund": {
-    "answer": "طريقة طلب الاسترداد تعتمد على طريقة الدفع.\n\nإذا كان الاشتراك عن طريق الدفع المباشر، يمكن طلب الاسترداد وفق سياسة iStoria. أما مشتريات App Store أو Google Play فتتم معالجة طلبات الاسترداد من خلال المتجر نفسه.\n\nللتفاصيل الرسمية:\nhttps://help.istoria.app/en/articles/6457224-how-do-i-request-a-refund",
-    "source": "https://help.istoria.app/en/articles/6457224-how-do-i-request-a-refund",
-    "verified": "2026-09-10"
+    "answer": "طريقة طلب الاسترداد تعتمد على طريقة الدفع. إذا كان الاشتراك عن طريق الدفع المباشر، يمكن طلب الاسترداد وفق سياسة iStoria. أما مشتريات App Store أو Google Play فتتم معالجة طلبات الاسترداد من خلال المتجر نفسه.",
+    "source": "https://help.istoria.app/en/articles/6457224-how-do-i-request-a-refund"
   },
 
   "premium": {
-    "answer": "اشتراك Premium يوفر مزايا إضافية مقارنة بالنسخة المجانية، ومنها القراءة غير المحدودة، تجربة خالية من الإعلانات، ومزايا تدريبية إضافية مثل Chat with iStro وترجمة الجمل ومزايا متقدمة أخرى.\n\nللمقارنة بين النسخة المجانية وPremium:\nhttps://help.istoria.app/en/articles/12617145-feature-comparison-your-key-to-effective-and-unlimited-learning-with-istoria",
-    "source": "https://help.istoria.app/en/articles/12617145-feature-comparison-your-key-to-effective-and-unlimited-learning-with-istoria",
-    "verified": "2026-09-10"
+    "answer": "اشتراك Premium يوفر مزايا إضافية مقارنة بالنسخة المجانية، ومنها القراءة غير المحدودة، وتجربة خالية من الإعلانات، ومزايا تدريبية إضافية مثل Chat with iStro وترجمة الجمل ومزايا متقدمة أخرى.",
+    "source": "https://help.istoria.app/en/articles/12617145-feature-comparison-your-key-to-effective-and-unlimited-learning-with-istoria"
   },
 
   "chat_istro": {
-    "answer": "Chat with iStro هي ميزة تفاعلية في iStoria تساعد على ممارسة اللغة الإنجليزية من خلال المحادثة النصية حول القصة التي قرأتها.\n\nتظهر الميزة كجزء من تجربة التعلم بعد إكمال القراءة والاختبارات المطلوبة، وهي من مزايا Premium.\n\nالتفاصيل الرسمية:\nhttps://help.istoria.app/en/articles/11860229-chat-with-istro-make-your-learning-interactive",
-    "source": "https://help.istoria.app/en/articles/11860229-chat-with-istro-make-your-learning-interactive",
-    "verified": "2026-09-10"
+    "answer": "Chat with iStro هي ميزة تفاعلية في iStoria تساعد على ممارسة اللغة الإنجليزية من خلال المحادثة النصية حول القصة التي قرأتها، وهي من مزايا Premium.",
+    "source": "https://help.istoria.app/en/articles/11860229-chat-with-istro-make-your-learning-interactive"
   },
 
   "password_reset": {
-    "answer": "إذا سجلت في iStoria باستخدام البريد الإلكتروني وكلمة المرور، يمكنك إعادة تعيين كلمة المرور.\n\nأما إذا سجلت باستخدام Google أو Apple، فلا تحتاج إلى كلمة مرور منفصلة، ويجب تسجيل الدخول باستخدام نفس حساب Google أو Apple الذي استخدمته عند التسجيل.\n\nللمزيد:\nhttps://help.istoria.app/en/articles/6457414-how-can-i-reset-the-password",
-    "source": "https://help.istoria.app/en/articles/6457414-how-can-i-reset-the-password",
-    "verified": "2026-09-10"
+    "answer": "إذا سجلت في iStoria باستخدام البريد الإلكتروني وكلمة المرور، يمكنك إعادة تعيين كلمة المرور.\n\nأما إذا سجلت باستخدام Google أو Apple، فاستخدم نفس حساب Google أو Apple الذي استخدمته عند التسجيل.",
+    "source": "https://help.istoria.app/en/articles/6457414-how-can-i-reset-the-password"
   },
 
   "login": {
-    "answer": "يمكن تسجيل الدخول إلى iStoria باستخدام بيانات الحساب التي سجلت بها. وإذا كان الحساب مرتبطًا بـ Google أو Apple، استخدم خيار تسجيل الدخول باستخدام نفس الحساب.\n\nإذا كانت لديك مشكلة في تسجيل الدخول، يمكنك التواصل مع دعم iStoria من خلال مركز المساعدة:\nhttps://help.istoria.app/ar/",
-    "source": "https://help.istoria.app/ar/",
-    "verified": "2026-09-10"
+    "answer": "يمكن تسجيل الدخول إلى iStoria باستخدام بيانات الحساب التي سجلت بها. وإذا كان الحساب مرتبطًا بـ Google أو Apple، استخدم خيار تسجيل الدخول باستخدام نفس الحساب.\n\nإذا واجهت مشكلة، يمكنك التواصل مع دعم iStoria.",
+    "source": "https://help.istoria.app/ar/"
   },
 
   "account_creation": {
-    "answer": "يمكن إنشاء حساب iStoria باستخدام البريد الإلكتروني أو حساب Google أو Apple. أثناء التسجيل قد يُطلب منك إدخال بعض المعلومات مثل الاسم والعمر واختيار هدف التعلم، ويمكنك إجراء اختبار تحديد المستوى.\n\nيمكنك البدء من تطبيق iStoria أو الرجوع إلى مركز المساعدة الرسمي:\nhttps://help.istoria.app/en/",
-    "source": "https://help.istoria.app/en/",
-    "verified": "2026-09-10"
+    "answer": "يمكن إنشاء حساب iStoria باستخدام البريد الإلكتروني أو حساب Google أو Apple. أثناء التسجيل قد يُطلب منك إدخال بعض المعلومات مثل الاسم والعمر واختيار هدف التعلم، ويمكنك إجراء اختبار تحديد المستوى.",
+    "source": "https://help.istoria.app/en/"
   },
 
   "delete_account": {
-    "answer": "لحذف حساب iStoria، انتقل إلى:\nالملف الشخصي ← الإعدادات ← المعلومات الشخصية ← حذف الحساب.\n\nتنبيه: حذف الحساب يؤدي إلى فقدان تقدم التعلم. وإذا كان لديك اشتراك مدفوع نشط، قد تحتاج إلى انتظار انتهاء فترة الاشتراك الحالية قبل حذف الحساب.\n\nالتفاصيل الرسمية:\nhttps://help.istoria.app/en/articles/6457359-how-to-delete-your-account-and-data",
-    "source": "https://help.istoria.app/en/articles/6457359-how-to-delete-your-account-and-data",
-    "verified": "2026-09-10"
+    "answer": "لحذف حساب iStoria، انتقل إلى:\nالملف الشخصي ← الإعدادات ← المعلومات الشخصية ← حذف الحساب.\n\nتنبيه: حذف الحساب يؤدي إلى فقدان تقدم التعلم.",
+    "source": "https://help.istoria.app/en/articles/6457359-how-to-delete-your-account-and-data"
   },
 
   "device_compatibility": {
-    "answer": "متطلبات التشغيل الأساسية لـ iStoria هي:\n\n• iPhone وiPad: إصدار iOS 15.5 أو أحدث.\n• Android: إصدار Android 8 أو أحدث.\n• أجهزة Huawei: يجب أن يدعم الجهاز خدمات Google Play Store.\n\nالمعلومات الرسمية:\nhttps://help.istoria.app/en/articles/12617624-istoria-general-subscriptions-technical-faq",
-    "source": "https://help.istoria.app/en/articles/12617624-istoria-general-subscriptions-technical-faq",
-    "verified": "2026-09-10"
+    "answer": "متطلبات التشغيل الأساسية لـ iStoria هي:\n\n• iPhone وiPad: إصدار iOS 15.5 أو أحدث.\n• Android: إصدار Android 8 أو أحدث.\n• أجهزة Huawei: يجب أن يدعم الجهاز خدمات Google Play Store.",
+    "source": "https://help.istoria.app/en/articles/12617624-istoria-general-subscriptions-technical-faq"
   },
 
   "support": {
-    "answer": "إذا واجهت مشكلة في iStoria أو تحتاج إلى مساعدة، يمكنك التواصل مع دعم iStoria من داخل التطبيق عبر:\nالملف الشخصي ← Support / الدعم.\n\nويمكنك أيضًا زيارة مركز المساعدة الرسمي:\nhttps://help.istoria.app/ar/",
-    "source": "https://help.istoria.app/ar/",
-    "verified": "2026-09-10"
+    "answer": "إذا واجهت مشكلة في iStoria أو تحتاج إلى مساعدة، يمكنك التواصل مع دعم iStoria من داخل التطبيق عبر:\nالملف الشخصي ← Support / الدعم.",
+    "source": "https://help.istoria.app/ar/"
   }
 }
