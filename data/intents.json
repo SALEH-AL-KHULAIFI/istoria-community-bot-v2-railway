@@ -316,7 +316,7 @@
     ],
     "keywords": [
       "chat with istro",
-      "chat with istro"
+      "chat with iStro"
     ]
   },
 
@@ -493,5 +493,14 @@
       "دعم ايستوريا",
       "دعم آيستوريا"
     ]
+  },
+
+  "legend_challenge": {
+    "priority": 130,
+    "phrases": [
+      "تحدي الاساطير",
+      "تحدي الأساطير"
+    ],
+    "keywords": []
   }
 }
