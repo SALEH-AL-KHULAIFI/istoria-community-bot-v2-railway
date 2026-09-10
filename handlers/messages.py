@@ -22,14 +22,15 @@ def register(bot):
             return
 
         # تشغيل نظام الإشراف
+        # إذا تم حذف الرسالة بسبب مخالفة، لا نكمل إلى نظام الأسئلة
         if moderate(bot, message, settings):
             return
 
         # إذا كانت ميزة الأسئلة الشائعة معطلة
-        # أو كانت الرسالة من بوت آخر
         if not settings.faq_enabled:
             return
 
+        # تجاهل رسائل البوتات الأخرى
         if getattr(message.from_user, "is_bot", False):
             return
 
@@ -39,10 +40,13 @@ def register(bot):
         if not text:
             return
 
+        # --------------------------------------------------
         # اكتشاف نوع السؤال
+        # --------------------------------------------------
+
         intent = detect_intent(text)
 
-        # إذا لم يتم التعرف على السؤال
+        # إذا لم يتم التعرف على سؤال
         if not intent:
             if (
                 settings.capture_unknown
@@ -63,14 +67,27 @@ def register(bot):
 
             return
 
+        # --------------------------------------------------
         # بناء الإجابة
+        # --------------------------------------------------
+
         response = build_response(intent)
 
         if not response:
             return
 
-        # بناء أزرار الرابط المخفي
-        keyboard = build_keyboard(intent)
+        # --------------------------------------------------
+        # بناء زر الرابط المخفي
+        # --------------------------------------------------
+
+        try:
+            keyboard = build_keyboard(intent)
+        except Exception:
+            keyboard = None
+
+        # --------------------------------------------------
+        # إرسال الإجابة
+        # --------------------------------------------------
 
         try:
             bot.reply_to(
@@ -81,11 +98,14 @@ def register(bot):
             )
 
             # تسجيل نجاح الإجابة
-            record_event(
-                message.chat.id,
-                message.from_user.id,
-                "faq:" + intent
-            )
+            try:
+                record_event(
+                    message.chat.id,
+                    message.from_user.id,
+                    "faq:" + intent
+                )
+            except Exception:
+                pass
 
         except Exception:
             # تسجيل فشل إرسال الإجابة
