@@ -1,6 +1,5 @@
 from telebot import types
 
-from config import SUPPORT_URL
 from services.knowledge import answer_for
 
 
@@ -9,19 +8,8 @@ def build_response(intent):
     يبني نص الإجابة فقط.
 
     الروابط لا تظهر داخل نص الرسالة،
-    وإنما يتم وضعها في أزرار Inline أسفل الرسالة.
+    وإنما يتم وضعها داخل زر Inline أسفل الرسالة.
     """
-
-    if intent == "pricing_redirect":
-        item = answer_for(intent)
-
-        if item:
-            return item["answer"]
-
-        return (
-            "بالنسبة للأسعار والخصومات وتكلفة الاشتراك، "
-            "راجع المعلومات الرسمية من iStoria."
-        )
 
     item = answer_for(intent)
 
@@ -33,9 +21,9 @@ def build_response(intent):
 
 def build_keyboard(intent):
     """
-    ينشئ أزرار Inline للرابط الرسمي المرتبط بالإجابة.
+    ينشئ زر Inline للرابط المرتبط بالإجابة.
 
-    الرابط نفسه لا يظهر للمستخدم داخل الرسالة.
+    الرابط نفسه لا يظهر للمستخدم داخل نص الرسالة.
     """
 
     item = answer_for(intent)
@@ -50,7 +38,6 @@ def build_keyboard(intent):
 
     keyboard = types.InlineKeyboardMarkup(row_width=1)
 
-    # اسم الزر حسب نوع السؤال
     button_text = "📖 تفاصيل أكثر"
 
     if intent == "support":
@@ -91,6 +78,9 @@ def build_keyboard(intent):
 
     elif intent == "what_is_istoria":
         button_text = "📖 تعرف على iStoria"
+
+    elif intent == "legend_challenge":
+        button_text = "اضغط هنا"
 
     keyboard.add(
         types.InlineKeyboardButton(
