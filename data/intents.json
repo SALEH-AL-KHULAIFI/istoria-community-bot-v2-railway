@@ -1,0 +1,8 @@
+{
+  "pricing_redirect":{"priority":100,"phrases":["كم سعر","كم الاشتراك","كم التكلفة","بكم","اسعار","أسعار","خصم","التكلفة"],"keywords":["price","pricing","discount","cost"]},
+  "family_subscription":{"priority":90,"phrases":["اشتراك عائلي","الاشتراك العائلي","خطة عائلية","الخطة العائلية"],"keywords":["family subscription","family plan"]},
+  "what_is_istoria":{"priority":80,"phrases":["ما هو ايستوريا","ما هو تطبيق ايستوريا","ما هي ايستوريا","ما هي iStoria","ايش ايستوريا"],"keywords":["what is istoria"]},
+  "free_version":{"priority":80,"phrases":["هل ايستوريا مجاني","هل استوريا مجاني","نسخة مجانية","استخدام مجاني"],"keywords":["free version"]},
+  "chat_istro":{"priority":80,"phrases":["شات استرو","محادثة استرو","الدردشة مع استرو"],"keywords":["chat with istro"]},
+  "support":{"priority":70,"phrases":["كيف اتواصل مع الدعم","الدعم الفني","عندي مشكلة","التطبيق لا يعمل","لا يعمل التطبيق"],"keywords":["support"]}
+}
